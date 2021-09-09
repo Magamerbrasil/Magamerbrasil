@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Magamerbrasil
+- 👀 I’m interested in : desenvolvimento de games
+- 🌱 I’m currently learning : pygame
+- 💞️ I’m looking to collaborate on : entreterimento
